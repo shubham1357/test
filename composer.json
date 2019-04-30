@@ -1,0 +1,12 @@
+{
+    "name": "demo/customcatalog",
+    "description": "A magento 2 Module for custom Catalog CRUD Opeation",
+    "type": "magento2-module",
+    "authors": [
+        {
+            "name": "demo",
+            "email": "demo@gmail.com"
+        }
+    ],
+    "require": {}
+}
