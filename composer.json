@@ -1,5 +1,5 @@
 {
-    "name": "demo/customcatalog",
+    "name": "demoone/customcatalog",
     "description": "A magento 2 Module for custom Catalog CRUD Opeation",
     "type": "magento2-module",
     "authors": [
